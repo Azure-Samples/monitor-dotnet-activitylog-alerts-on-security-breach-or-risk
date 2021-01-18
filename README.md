@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Monitor
-- platforms: dotnet
+  services: Monitor
+  platforms: dotnet
 ---
 
 # Configuring activity log alerts to be triggered on potential security breaches or risks. #
